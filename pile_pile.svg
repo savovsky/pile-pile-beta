@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg
+    width="100%"
+    height="100%"
+    viewBox="-8 3 50 50"
+    version="1.1"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xml:space="preserve"
+    xmlns:serif="http://www.serif.com/"
+    style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g fill="#1976d2">
+    <g transform='translate(0, 0)'>
+        <path
+            stroke="#1976d2"
+            stroke-width="2"
+            stroke-linejoin="round"
+            stroke-linecap="round"
+            d="M24.83 13.26L9.47 13.26L9.47 38.53Q9.47 41.80 10.31 42.68Q11.16 43.55 14.26 43.65L14.26 44.56L0 44.56L0 43.65Q3.08 43.55 3.93 42.68Q4.79 41.80 4.79 38.53L4.79 17.48Q4.79 14.21 3.93 13.33Q3.08 12.45 0 12.35L0 11.45L34.30 11.45L34.30 12.35Q31.23 12.45 30.37 13.33Q29.52 14.21 29.52 17.48L29.52 38.53Q29.52 41.80 30.37 42.68Q31.23 43.55 34.30 43.65L34.30 44.56L20.07 44.56L20.07 43.65Q23.12 43.55 23.97 42.69Q24.83 41.82 24.83 38.53L24.83 13.26Z"
+        />
+    </g>
+    </g>
+</svg>
