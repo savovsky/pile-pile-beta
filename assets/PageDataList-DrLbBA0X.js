@@ -1,0 +1,1 @@
+import{c as s,j as e,B as o}from"./index-CU1V3-zu.js";import{D as r}from"./DataList-muBmSANH.js";const c=()=>{const a=s.c(1);let t;return a[0]===Symbol.for("react.memo_cache_sentinel")?(t=e.jsx(o,{"data-testid":"page-data-list",children:e.jsx(r,{})}),a[0]=t):t=a[0],t};export{c as default};
